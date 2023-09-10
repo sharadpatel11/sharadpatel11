@@ -1,9 +1,15 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br><br>
+</div>
+
+<div id="badges">
  <a href="https://www.linkedin.com/in/sharad-patel-58518b176/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ </a>
+ <a href="https://www.instagram.com/sharad_patel11/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ </a>
  <img src="https://komarev.com/ghpvc/?username=sharadpatel11&style=flat-square&color=blue" alt=""/>
 </div>
 
