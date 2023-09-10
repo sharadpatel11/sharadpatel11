@@ -18,7 +18,7 @@
 </div>
 
 ---
-### :man_technologist: About Me : I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
+### :man_technologist: About Me : I am a Computer Science Senior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at CUNY Queens College.
 - 🔭 I’m currently working on Python web development and data science projects
 - 🌱 I’m currently learning Data science, Post-quantum Cryptography and Web Development
 - 🤔 I’m looking for help with internships or entry level positions for 2024
