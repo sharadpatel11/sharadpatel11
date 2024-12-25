@@ -18,10 +18,10 @@
 </div>
 
 ---
-### :man_technologist: About Me : I am a recent Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CUNY Queens College.
+### :man_technologist: About Me : I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CUNY Queens College.
 - 🔭 I’m currently working on web development and data science projects
-- 🌱 I’m currently learning Data science and Full Stack Development
-- 🤔 I’m looking for internships or entry level positions for 2024
+- 🌱 I’m currently Full Stack Development
+- 🤔 I’m looking for internships or entry level positions for 2025
 - 📫 How to reach me: sharadpatel115222@gmail.com
 - ⚡ Fun fact: I like to sing and play table-tennis
 
