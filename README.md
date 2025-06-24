@@ -12,10 +12,10 @@
 </div>
 
 ---
-### :man_technologist: About Me : I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CUNY Queens College.
-- 🔭 I’m currently working on CompTIA A+ and Google Cybersecurity certifications
-- 🌱 I will be starting my masters in Cybersecurity in Fall 2025
-- 🤔 I’m looking for internships or entry level positions for 2025
+### :man_technologist: About Me : I am pursuing masters in cybersecurity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at NYU Tandon School of Engineering.
+- 🔭 I’m currently working on CompTIA A+ and Security+.
+- 🌱 I completed bachelors in Computer Science from CUNY Queens College.
+- 🤔 I’m looking for internships or entry level positions.
 - 📫 How to reach me: sharadpatel115222@gmail.com
 - ⚡ Fun fact: I like to sing and play table-tennis
 
